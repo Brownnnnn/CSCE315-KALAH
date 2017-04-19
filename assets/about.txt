@@ -1,0 +1,5 @@
+<html>
+<br>Team 3-7
+<br>Xiaoyu Li, Andrew Smith, Jonathon Hinchley
+<br>Building a Mancala like game in Java for CSCE 315
+</html>
